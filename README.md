@@ -90,8 +90,8 @@ week12-capstone/
 ## Author
 **Alsen Legesse**
 - GitHub: [@alsenlegesse-bit](https://github.com/alsenlegesse-bit)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/alsen-legesse-b5063739a
+- Email:alsenlegesse@gmail.com
 
 ## License
 MIT License
